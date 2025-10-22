@@ -130,6 +130,4 @@ Optimal Topics: 2 (based on highest coherence score)
 
 LDA Passes: 15
 
-TF-IDF Features: 2000 maximum features
-
-🤝 Contributing
+TF-IDF Features: 2000 maximum featuresbuting
